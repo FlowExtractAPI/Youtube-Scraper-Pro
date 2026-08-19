@@ -1,5 +1,5 @@
 # 🎬 YouTube Scraper Pro
-[YouTube Scraper Pro](https://apify.com/dz_omar/youtube-transcript-pro?fpr=smcx63) extracts comprehensive data from ALL YouTube content: Videos, Shorts, Live streams, Podcasts, Courses, and full Channels. Process playlists and batch requests with ease. Perfect for researchers, marketers, and content creators. It also recognizes and processes smart keyword patterns like `#hashtag` and `@channelname`, making it even easier to target specific content from YouTube.
+[YouTube Scraper Pro](https://apify.com/dz_omar/youtube-scraper-pro?fpr=smcx63) extracts comprehensive data from ALL YouTube content: Videos, Shorts, Live streams, Podcasts, Courses, and full Channels. Process playlists and batch requests with ease. Perfect for researchers, marketers, and content creators. It also recognizes and processes smart keyword patterns like `#hashtag` and `@channelname`, making it even easier to target specific content from YouTube.
 
 ## 🚀 The Intelligent Way to Extract YouTube Content
 
